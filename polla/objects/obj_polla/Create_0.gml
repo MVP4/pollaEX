@@ -1,3 +1,0 @@
-//Vaiables
-pollalevel = 15;
-
