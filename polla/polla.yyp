@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "e6646fb5-c833-4f1a-937a-248b5935e900",
+            "Value": {
+                "id": "d1ac8efd-10c5-48a9-8e8a-b6022134f85c",
+                "resourcePath": "objects\\obj_cipote\\obj_cipote.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f73f94c9-a389-426e-bae6-655586917693",
             "Value": {
                 "id": "4a8d8156-b8c5-45e5-baf2-21969580075a",
